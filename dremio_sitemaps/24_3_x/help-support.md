@@ -1,0 +1,22 @@
+# 24.3.X: Help Support
+
+Section URL: [https://docs.dremio.com/24.3.x/help-support/](https://docs.dremio.com/24.3.x/help-support/)
+
+- [Best Practices](https://docs.dremio.com/24.3.x/help-support/best-practices/)
+  - [Semantic_Layer](https://docs.dremio.com/24.3.x/help-support/best-practices/semantic_layer)
+- [Knowledge Base](https://docs.dremio.com/24.3.x/help-support/knowledge-base/)
+  - [Apache Log4J Vulnerability](https://docs.dremio.com/24.3.x/help-support/knowledge-base/apache-log4j-vulnerability)
+  - [G1 Garbage Collection](https://docs.dremio.com/24.3.x/help-support/knowledge-base/g1-garbage-collection)
+  - [K8S Trouble](https://docs.dremio.com/24.3.x/help-support/knowledge-base/k8s-trouble)
+  - [Kerberos Trouble](https://docs.dremio.com/24.3.x/help-support/knowledge-base/kerberos-trouble)
+  - [Ranger Ssl Kerberos](https://docs.dremio.com/24.3.x/help-support/knowledge-base/ranger-ssl-kerberos)
+- [Lakehouse Arch](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/)
+  - [Cost](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/cost/)
+    - [Optimize Refresh](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/cost/optimize-refresh)
+  - [Operations](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/operations/)
+    - [Monitoring](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/operations/monitoring)
+  - [Performance](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/performance)
+  - [Reliability](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/reliability/)
+    - [Wlm Init](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/reliability/wlm-init)
+  - [Security](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/security)
+  - [Semantic](https://docs.dremio.com/24.3.x/help-support/lakehouse-arch/semantic)
