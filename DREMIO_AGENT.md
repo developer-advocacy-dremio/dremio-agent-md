@@ -79,7 +79,9 @@ if not dremio_pat:
 - If using Dremio Software, use `dremio_sitemaps/current/` as the root.
 - For the Dremio Cloud API, use `dremio_sitemaps/dremio-cloud/api.md`
 - For Dremio Software API, use `dremio_sitemaps/current/reference.md`
-- For Dremio SQL Syntax use, use `dremio_sitemaps/dremio-cloud/sql.md`
+- For Dremio SQL Syntax use, use `dremio_sitemaps/dremio-cloud/sql/readme.md`
+- For Dremio Sources on Cloud, use `dremio_sitemaps/dremio-cloud/bring-data.md`
+- For Dremio Sources on Software, use `dremio_sitemaps/current/data-sources.md`
 
 ## 5. Python Tools Recommendation
 

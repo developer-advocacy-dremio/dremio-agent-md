@@ -13,4 +13,4 @@ Top URL: [https://docs.dremio.com/dremio-cloud/](https://docs.dremio.com/dremio-
 - [Help Support](help-support.md)
 - [Manage Govern](manage-govern.md)
 - [Security](security.md)
-- [Sql](sql.md)
+- [Sql](sql/README.md)

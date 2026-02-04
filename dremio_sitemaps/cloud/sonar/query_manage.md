@@ -1,0 +1,23 @@
+# Query Manage
+
+Section URL: [https://docs.dremio.com/cloud/sonar/query-manage/](https://docs.dremio.com/cloud/sonar/query-manage/)
+
+- [Data](https://docs.dremio.com/cloud/sonar/query-manage/data/)
+  - [Data Branching And Versioning](https://docs.dremio.com/cloud/sonar/query-manage/data/data-branching-and-versioning)
+  - [Datasets](https://docs.dremio.com/cloud/sonar/query-manage/data/datasets/)
+  - [Folders](https://docs.dremio.com/cloud/sonar/query-manage/data/folders)
+- [Managing Tables](https://docs.dremio.com/cloud/sonar/query-manage/managing-tables/)
+  - [Clustering](https://docs.dremio.com/cloud/sonar/query-manage/managing-tables/clustering)
+  - [Concurrency](https://docs.dremio.com/cloud/sonar/query-manage/managing-tables/concurrency)
+  - [Copying Data Into Tables](https://docs.dremio.com/cloud/sonar/query-manage/managing-tables/copying-data-into-tables)
+  - [Expiring Snapshots](https://docs.dremio.com/cloud/sonar/query-manage/managing-tables/expiring-snapshots)
+  - [Optimizing](https://docs.dremio.com/cloud/sonar/query-manage/managing-tables/optimizing)
+  - [Rolling Back](https://docs.dremio.com/cloud/sonar/query-manage/managing-tables/rolling-back)
+  - [Table Properties](https://docs.dremio.com/cloud/sonar/query-manage/managing-tables/table-properties)
+- [Querying Data](https://docs.dremio.com/cloud/sonar/query-manage/querying-data/)
+  - [Jobs](https://docs.dremio.com/cloud/sonar/query-manage/querying-data/jobs)
+- [Semantic Search](https://docs.dremio.com/cloud/sonar/query-manage/semantic-search)
+- [Supported Data Formats](https://docs.dremio.com/cloud/sonar/query-manage/supported-data-formats/)
+  - [Delta Lake](https://docs.dremio.com/cloud/sonar/query-manage/supported-data-formats/delta-lake)
+  - [Iceberg](https://docs.dremio.com/cloud/sonar/query-manage/supported-data-formats/iceberg)
+  - [Parquet](https://docs.dremio.com/cloud/sonar/query-manage/supported-data-formats/parquet)

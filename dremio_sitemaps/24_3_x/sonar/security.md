@@ -1,0 +1,22 @@
+# Security
+
+Section URL: [https://docs.dremio.com/24.3.x/sonar/security/](https://docs.dremio.com/24.3.x/sonar/security/)
+
+- [Auditing](https://docs.dremio.com/24.3.x/sonar/security/auditing/)
+- [Authentication](https://docs.dremio.com/24.3.x/sonar/security/authentication/)
+  - [External Token](https://docs.dremio.com/24.3.x/sonar/security/authentication/external-token)
+- [Compliance](https://docs.dremio.com/24.3.x/sonar/security/compliance)
+- [Inbound Impersonation](https://docs.dremio.com/24.3.x/sonar/security/inbound-impersonation)
+- [Lake Formation](https://docs.dremio.com/24.3.x/sonar/security/lake-formation/)
+  - [Lake Formation Demo](https://docs.dremio.com/24.3.x/sonar/security/lake-formation/lake-formation-demo)
+- [Personal Access Tokens](https://docs.dremio.com/24.3.x/sonar/security/personal-access-tokens)
+- [Privacera](https://docs.dremio.com/24.3.x/sonar/security/privacera)
+- [Rbac](https://docs.dremio.com/24.3.x/sonar/security/rbac/)
+  - [Best Practices](https://docs.dremio.com/24.3.x/sonar/security/rbac/best-practices)
+  - [Okta](https://docs.dremio.com/24.3.x/sonar/security/rbac/okta)
+  - [Privileges](https://docs.dremio.com/24.3.x/sonar/security/rbac/privileges)
+  - [Rbac Structure](https://docs.dremio.com/24.3.x/sonar/security/rbac/rbac-structure)
+  - [Roles](https://docs.dremio.com/24.3.x/sonar/security/rbac/roles)
+  - [Row Column Policies Ranger](https://docs.dremio.com/24.3.x/sonar/security/rbac/row-column-policies-ranger)
+  - [Row Column Policies Udf](https://docs.dremio.com/24.3.x/sonar/security/rbac/row-column-policies-udf)
+  - [Users](https://docs.dremio.com/24.3.x/sonar/security/rbac/users)
