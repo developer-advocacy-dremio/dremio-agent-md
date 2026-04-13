@@ -93,8 +93,26 @@ Use `dremioframe` for:
 *   **Administrative Tasks**: User/role management, reflection management.
 *   **Documentation Link**: `dremio_sitemaps/dremioframe/README.md`
 
-### Dremio CLI (`dremio_sitemaps/dremio-cli/`)
-Use the `dremio-python-cli` for:
-*   **Command Line Operations**: Quick shell-based interactions.
-*   **CI/CD Integration**: Scripting catalog changes or queries in build pipelines.
+### Official Dremio CLI — `dremio-cli` (`dremio_sitemaps/dremio-cli/`)
+
+> **⚠️ Dremio Cloud ONLY.** This is the official CLI maintained by Dremio. It does NOT support Dremio Software (self-hosted).
+
+*   **Package**: [`dremio-cli`](https://pypi.org/project/dremio-cli/) on PyPI
+*   **Source**: [github.com/dremio/cli](https://github.com/dremio/cli)
+*   **Install**: `pipx install dremio-cli` (recommended) or `uv tool install dremio-cli`
+*   **Invoked as**: `dremio <command>`
+*   **Auth**: Requires a PAT (`DREMIO_TOKEN`) and a Project ID (`DREMIO_PROJECT_ID`).
+*   **Best for**: Query execution, schema inspection, reflections, jobs, folder management — all scoped to a Dremio Cloud project.
 *   **Documentation Link**: `dremio_sitemaps/dremio-cli/README.md`
+
+### Community Dremio CLI — `alt-dremio-cli` (`dremio_sitemaps/alt-dremio-cli/`)
+
+> **✅ Supports BOTH Dremio Cloud and Dremio Software.** This is a community-maintained CLI that covers the full Dremio REST API surface area.
+
+*   **Package**: [`alt-dremio-cli`](https://pypi.org/project/alt-dremio-cli/) on PyPI
+*   **Source**: [github.com/developer-advocacy-dremio/dremio-python-cli](https://github.com/developer-advocacy-dremio/dremio-python-cli)
+*   **Install**: `pip install alt-dremio-cli`
+*   **Invoked as**: `alt-dremio-cli <command>`
+*   **Auth**: Profile-based via `alt-dremio-cli profile create`, supporting both username/password (Software) and PAT (Cloud).
+*   **Best for**: Full catalog management, SQL execution, source/view/table management, grants, users, roles — spanning Cloud and Software.
+*   **Documentation Link**: `dremio_sitemaps/alt-dremio-cli/README.md`

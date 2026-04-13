@@ -16,4 +16,5 @@ Index of top-level documentation sections:
 - [Responsibility](responsibility/README.md)
 - [Search](search/README.md)
 - [Dremioframe (Python Lib)](dremioframe/README.md)
-- [Dremio CLI (Python Tool)](dremio-cli/README.md)
+- [Official Dremio CLI — `dremio-cli` (Cloud Only)](dremio-cli/README.md)
+- [Community Dremio CLI — `alt-dremio-cli` (Cloud + Software)](alt-dremio-cli/README.md)
